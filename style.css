@@ -1,0 +1,75 @@
+.hero {
+    background-image: url(./gus.png);
+    height: 720px;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+ 
+.work {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 24px;
+color: rgb(243, 243, 0);
+text-shadow: -3px -3px 2px blue
+}
+
+.wark {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px; 
+    color: rgb(228, 77, 18);
+    text-shadow: -3px -3px 2px rgb(228, 147, 26);
+}
+
+.werk {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 24px;
+    color: red;
+    text-shadow: -3px -3px 2px yellow;
+    font-size: 35px; 
+}
+
+.werk:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+.wurk {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 24px;
+    color: rgb(243, 243, 0);
+text-shadow: -3px -3px 2px blue;
+font-size: 20px;
+  
+}
+
+.sark {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: aliceblue; 
+    background: #FF6B0A;
+    border-radius: 20px;
+}
+
+   
+
+
+
+
+
+
+    
